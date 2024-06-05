@@ -4,3 +4,37 @@ html,
 body {
   font-family: 'Montserrat', sans-serif;
 }
+
+.dice {
+  width: 50px;
+  height: 50px;
+  border-radius: 6px;
+  margin: 5px;
+}
+
+.stats-div {
+  display: block;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
+.action-div {
+  display: block;
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.dice-div {
+  display: block;
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+
+
